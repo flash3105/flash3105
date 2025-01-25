@@ -1,16 +1,11 @@
 ## Hi there 👋 I am Tshemollo The problem Solver ...
 Welcome to my GitHub profile! I'm a passionate Engineer, data enthusiast, and problem solver who loves building innovative solutions and exploring cutting-edge technologies.
+
 💻 What I Do
+
 I work on exciting projects across various domains, combining my technical skills with creativity to build impactful solutions. 
 🛠️ Skills & Tools
-Languages:
-Python 🐍 | JavaScript | SQL | HTML & CSS
-Frameworks:
-Flask | Django | React.js | TailwindCSS
-Tools:
-BigQuery | MySQL | D3.js | TensorFlow | Mapbox
-Additional Expertise:
-Time Series Analysis | Machine Learning | Data Visualization
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
